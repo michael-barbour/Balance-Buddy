@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Length_Conversion_Types">
+        <item>in</item>
+        <item>ft</item>
+        <item>yard(s)</item>
+        <item>meter</item>
+        <item>kilometer</item>
+        <item>millimeter</item>
+        <item>centimeter</item>
+    </string-array>
+</resources>

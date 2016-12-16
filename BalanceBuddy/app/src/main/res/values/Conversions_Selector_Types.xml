@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Conversions_Selector_Types">
+        <item>Mass</item>
+        <item>Length</item>
+        <item>Volume</item>
+        <item>Temp</item>
+    </string-array>
+</resources>

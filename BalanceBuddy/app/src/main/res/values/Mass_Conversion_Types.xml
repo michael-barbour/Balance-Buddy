@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Mass_Conversion_Types">
+        <item>g</item>
+        <item>kg</item>
+        <item>oz</item>
+        <item>mg</item>
+        <item>decigram</item>
+        <item>centigram</item>
+        <item>hectogram</item>
+        <item>decagram</item>
+    </string-array>
+</resources>

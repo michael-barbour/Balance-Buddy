@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Volume_Conversion_Types">
+        <item>gallon</item>
+        <item>oz</item>
+        <item>liter</item>
+        <item>milliliter</item>
+        <item>kiloliter</item>
+        <item>centiliter</item>
+        <item>deciliter</item>
+    </string-array>
+</resources>
